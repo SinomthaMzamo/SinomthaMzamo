@@ -12,7 +12,7 @@
 - AI technologies
 
 
- **Languages**:
+ **💻 Tech Stack - Languages**:
 - **Python**: Great for rapid development, data analysis, and prototyping backend development.
 - **Java**: Ideal for object-oriented programming, enterprise-level applications, and Android development.
 - **SQL**: Essential for database management and data querying.
