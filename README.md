@@ -11,10 +11,34 @@
 - Cloud Solutions
 - AI technologies
 
-**💻 Tech Stack**
-- Languages: Python, Java, SQL, HTML, CSS, JavaScript
-- Frameworks: React
-- Tools: Git, IntelliJ, VSCode
+
+ **Languages**:
+- **Python**: Great for rapid development, data analysis, and prototyping backend development.
+- **Java**: Ideal for object-oriented programming, enterprise-level applications, and Android development.
+- **SQL**: Essential for database management and data querying.
+- **HTML/CSS**: The backbone of front-end web development.
+- **JavaScript**: The most commonly used language for interactive web pages and web apps.
+
+ **Frameworks/Libraries**:
+- **React**: A powerful front-end library for building dynamic user interfaces. Ideal for SPAs (Single Page Applications).
+- **Pygame**: A great library for developing games in Python, proved to be particularly useful for game development in the minesweeper project.
+- **NumPy**: Used for scientific computing and data manipulation in Python, particularly useful in machine learning, data analysis, and simulations.
+- **Javalin**: A simple, flexible, and lightweight web framework for Java, perfect for building RESTful APIs and web applications.
+- **Flask**: A lightweight Python web framework used for building APIs and web apps, offering flexibility and simplicity.
+- **Docker**: For containerizing your applications, which helps with consistency across development environments and simplifies deployment.
+- **CI/CD Tools**: GitLab CI to automate my build and deployment pipelines.
+- **Cloud Platforms**: AW for hosting my applications and utilizing cloud services like databases, storage, and compute power.
+- **Testing Frameworks**: Jest (for JavaScript), PyTest & unittest (for Python), or JUnit (for Java) for implementing automated unit and integration tests in my projects.
+
+ **Tools**:
+- **Git**: Version control system to track changes in my codebase, collaborate with others, and manage my repository.
+- **IntelliJ**: A powerful IDE, especially for Java and Kotlin development. It has extensive support for other languages, including Python, JavaScript, Kotlin and SQL.
+- **VSCode**: A lightweight and flexible text editor, highly customizable with extensions for various programming languages, frameworks, and tools.
+- **Lucidchart**: A diagramming tool to create flowcharts, wireframes, and architecture diagrams. Useful for planning and documenting your system design, especially database schema design.
+- **Miro**: An online collaborative whiteboarding platform, great for brainstorming, wireframing, and team collaboration.
+- **Google Workspace**: A suite of productivity tools (Docs, Sheets, Drive, etc.) that aids collaboration and document management.
+- **Slack**: A feature rich collaboration and communication platform designed to streamline team interactions and improve productivity. 
+
 
 <b>My GitHub Stats</b>
 
