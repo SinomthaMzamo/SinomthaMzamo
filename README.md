@@ -32,6 +32,7 @@
 
  **Tools**:
 - **Git**: Version control system to track changes in my codebase, collaborate with others, and manage my repository.
+- **Google APIs**: Provide access to Google's services and data, enabling integration of functionalities like Maps, YouTube, Drive and Calendar into applications.
 - **IntelliJ**: A powerful IDE, especially for Java and Kotlin development. It has extensive support for other languages, including Python, JavaScript, Kotlin and SQL.
 - **VSCode**: A lightweight and flexible text editor, highly customizable with extensions for various programming languages, frameworks, and tools.
 - **Lucidchart**: A diagramming tool to create flowcharts, wireframes, and architecture diagrams. Useful for planning and documenting your system design, especially database schema design.
