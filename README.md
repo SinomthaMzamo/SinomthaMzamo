@@ -37,7 +37,8 @@
 - **Lucidchart**: A diagramming tool to create flowcharts, wireframes, and architecture diagrams. Useful for planning and documenting your system design, especially database schema design.
 - **Miro**: An online collaborative whiteboarding platform, great for brainstorming, wireframing, and team collaboration.
 - **Google Workspace**: A suite of productivity tools (Docs, Sheets, Drive, etc.) that aids collaboration and document management.
-- **Slack**: A feature rich collaboration and communication platform designed to streamline team interactions and improve productivity. 
+- **Slack**: A feature rich collaboration and communication platform designed to streamline team interactions and improve productivity.
+- **Figma**: A cloud-based design tool for UI/UX design that enables real-time collaboration, vector editing, prototyping, and version control, all accessible across platforms.
 
 
 <b>My GitHub Stats</b>
