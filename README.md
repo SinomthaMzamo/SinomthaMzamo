@@ -27,7 +27,7 @@
 - **Flask**: A lightweight Python web framework used for building APIs and web apps, offering flexibility and simplicity.
 - **Docker**: For containerizing your applications, which helps with consistency across development environments and simplifies deployment.
 - **CI/CD Tools**: GitLab CI to automate my build and deployment pipelines.
-- **Cloud Platforms**: AW for hosting my applications and utilizing cloud services like databases, storage, and compute power.
+- **Cloud Platforms**: AWS for hosting applications and utilizing cloud services like databases, storage, and compute power.
 - **Testing Frameworks**: Jest (for JavaScript), PyTest & unittest (for Python), or JUnit (for Java) for implementing automated unit and integration tests in my projects.
 
  **Tools**:
