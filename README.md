@@ -52,6 +52,9 @@
 - mzamo.sinomthaayakhanya@gmail.com
 - www.linkedin.com/in/sinomtha-mzamo
 
+**🌐 Visit my portfolio website here**
+- https://sinomthamzamo.github.io/sinomthamzamo.portfolio/
+
 
 **⚡ Fun Fact**
 - *Did you know? 🚀 The Apollo 11 mission's guidance computer had just 64KB of memory, which is less than many modern text files 📄. Yet it successfully guided astronauts to the moon 🌕!*
