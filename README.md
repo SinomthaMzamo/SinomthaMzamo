@@ -1,45 +1,71 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+There+👋;I+Am+Sinomtha+Mzamo+😊+🇿🇦;A+passionate+full-stack+developer+💻;With+a+passion+for+Cloud+Solutions+☁️" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+There+👋;I+Am+Sinomtha+Mzamo+😊+🇿🇦;A+passionate+full-stack+developer+💻;A+UX-Driven+Builder;With+a+passion+for+Cloud+Solutions+☁️" alt="Typing SVG" /></a>
 </p>
 
 **🚀 Quick Overview**
 - 😄 Pronouns: her/she
-- 💞️ I’m looking to collaborate on innovative projects and developing cloud applications.
+- I’m a curious, impact-oriented software engineer who loves turning ideas into intuitive, working products. I thrive at the intersection of **backend engineering**, **frontend development**, **UX design**, and **AI-assisted problem-solving**.
 
-**👀 Interests**
+Whether I’m mapping out user flows in Figma, architecting APIs, or teaching others how to simplify complexity — I'm driven by building meaningful, accessible, and thoughtfully designed digital experiences.
+
+---
+
+**👀 My Interests**
 - Fullstack Development
 - Cloud Solutions
 - AI technologies
+- Data Engineering
+- UX Design
 
+**🚀 What I Do**
 
- **💻 Tech Stack - Languages**:
-- **Python**: Great for rapid development, data analysis, and prototyping backend development.
-- **Java**: Ideal for object-oriented programming, enterprise-level applications, and Android development.
-- **SQL**: Essential for database management and data querying.
-- **HTML/CSS**: The backbone of front-end web development.
-- **JavaScript**: The most commonly used language for interactive web pages and web apps.
+* **Full-stack development** using Python, Kotlin, JavaScript/TypeScript, React, Angular & Flutter
+* **Backend architecture & APIs** (Flask, FastAPI, Node, Kotlin Multiplatform)
+* **UX design & product thinking** — from discovery → prototyping → implementation
+* **Cloud, DevOps & CI/CD** (AWS, Docker, GitHub Actions, GitLab CI)
+* **AI-assisted development** (Cursor, RLHF workflows, code-quality evaluation)
+* **Teaching**, especially simplifying complex concepts
 
- **Frameworks/Libraries**:
-- **React**: A powerful front-end library for building dynamic user interfaces. Ideal for SPAs (Single Page Applications).
-- **Pygame**: A great library for developing games in Python, proved to be particularly useful for game development in the minesweeper project.
-- **NumPy**: Used for scientific computing and data manipulation in Python, particularly useful in machine learning, data analysis, and simulations.
-- **Javalin**: A simple, flexible, and lightweight web framework for Java, perfect for building RESTful APIs and web applications.
-- **Flask**: A lightweight Python web framework used for building APIs and web apps, offering flexibility and simplicity.
-- **Docker**: For containerizing your applications, which helps with consistency across development environments and simplifies deployment.
-- **CI/CD Tools**: GitLab CI to automate my build and deployment pipelines.
-- **Cloud Platforms**: AWS for hosting applications and utilizing cloud services like databases, storage, and compute power.
-- **Testing Frameworks**: Jest (for JavaScript), PyTest & unittest (for Python), or JUnit (for Java) for implementing automated unit and integration tests in my projects.
+---
 
- **Tools**:
-- **Git**: Version control system to track changes in my codebase, collaborate with others, and manage my repository.
-- **Google APIs**: Provide access to Google's services and data, enabling integration of functionalities like Maps, YouTube, Drive and Calendar into applications.
-- **IntelliJ**: A powerful IDE, especially for Java and Kotlin development. It has extensive support for other languages, including Python, JavaScript, Kotlin and SQL.
-- **VSCode**: A lightweight and flexible text editor, highly customizable with extensions for various programming languages, frameworks, and tools.
-- **Lucidchart**: A diagramming tool to create flowcharts, wireframes, and architecture diagrams. Useful for planning and documenting your system design, especially database schema design.
-- **Miro**: An online collaborative whiteboarding platform, great for brainstorming, wireframing, and team collaboration.
-- **Google Workspace**: A suite of productivity tools (Docs, Sheets, Drive, etc.) that aids collaboration and document management.
-- **Slack**: A feature rich collaboration and communication platform designed to streamline team interactions and improve productivity.
-- **Figma**: A cloud-based design tool for UI/UX design that enables real-time collaboration, vector editing, prototyping, and version control, all accessible across platforms.
+**🧠 What I’ve Built**
+
+* **🧾 Bhala Edolweni** – A full-stack debtor management system (Flask + React + Kotlin)
+* **🛣️ RoutePool** – A Flutter ride-sharing app improving mobility access in Cape Town
+* **📊 CRM + CMS Dashboard** – A modular, full-featured admin interface for content & user management
+* **🏛️ DHA Booking UX Revamp** – AI-assisted redesign using Angular + Cursor to improve accessibility, flow, and feature visibility
+
+---
+
+**🛠️ Core Tech Stack**
+* **Languages:** Python • TypeScript • JavaScript • Kotlin • Java • SQL
+* **Backend:** Flask • FastAPI • Node.js • Kotlin Multiplatform
+* **Frontend:** React • Angular • Flutter • HTML/CSS
+* **Cloud & DevOps:** AWS • Docker • GitHub Actions • GitLab CI • DataDog
+* **Databases:** PostgreSQL • MongoDB • Firebase
+* **Testing:** PyTest • JUnit • Jest • Postman
+
+---
+
+**🎨 Tools & Product Mindset**
+* **UX / Prototyping:** Figma • Miro • Design Thinking
+* **Architecture & Diagrams:** Lucidchart
+* **AI Tools:** Cursor, model-assisted code review, RLHF workflows
+* **Version Control:** Git (daily driver)
+* **Collaboration:** Slack • Google Workspace
+
+---
+
+**🌍 What Drives Me**
+
+I care deeply about:
+
+* **building tech that improves real lives**, not just code for code’s sake
+* **clarity, craft, and communication**
+* **continuous learning** and exploring the full stack end-to-end
+* **developer experience (DX)** — making tools elegant, simple, and joyful to use
+
+---
 
 
 <b>My GitHub Stats</b>
